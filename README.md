@@ -16,10 +16,6 @@
 
 Software engineer from Modena. I write code, but I think in products: my projects start in Figma and ship as one system, with the app, the API and the back office designed together.
 
-- Master's in Computer Engineering (110 cum laude), then research on AI for multilingual libraries and a year of PhD.
-- Today I'm a software developer on enterprise apps, and I build my own products on the side.
-- Python is home. Django on the backend, Flutter on mobile, Astro on the web.
-
 ### Templates
 
 Complete products for a kind of business, built to show the method end to end. Brands and data are made up, the code is real and MIT licensed.
