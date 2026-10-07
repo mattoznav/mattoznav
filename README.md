@@ -1,9 +1,9 @@
-<a href="https://portfolio-production-15d6.up.railway.app">
+<a href="https://matteovanzini.dev">
   <img src="assets/banner.svg" alt="Matteo Vanzini, product builder: I build digital products from idea to release" width="100%">
 </a>
 
 <p align="center">
-  <a href="https://portfolio-production-15d6.up.railway.app"><b>Portfolio</b></a>
+  <a href="https://matteovanzini.dev"><b>Portfolio</b></a>
   &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/matteovanzini"><b>LinkedIn</b></a>
   &nbsp;·&nbsp;
@@ -74,4 +74,4 @@ Complete products for a kind of business, built to show the method end to end. B
 
 ### Get in touch
 
-The quickest way is the contact button on my [portfolio](https://portfolio-production-15d6.up.railway.app), or a message on [LinkedIn](https://www.linkedin.com/in/matteovanzini).
+The quickest way is the contact button on my [portfolio](https://matteovanzini.dev), or a message on [LinkedIn](https://www.linkedin.com/in/matteovanzini).
